@@ -1,9 +1,12 @@
-<img src="images/img2.jpg" align="left" width="500" />
+<div align="center">
+  <img src="images/img2.jpg" width="800" />
+</div>
 
 <br clear="both"/>
 
 Hello!
 
-<div align="right">
+<details>
+  <summary>Click the Fax!</summary>
   <img src="images/img3.jpg" width="300" />
-</div>
+</details>
