@@ -1,7 +1,9 @@
-<div align="center">
-  <img src="images/img2.jpg" width="800" />
-</div>
+<img src="images/img2.jpg" align="left" width="500" />
 
-<div align="center">
-  <img src="images/img3.jpg" width="400" />
+<br clear="both"/>
+
+Hello!
+
+<div align="right">
+  <img src="images/img3.jpg" width="300" />
 </div>
