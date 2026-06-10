@@ -1,3 +1,7 @@
-![Alt text for the image](images/img2.jpg)
+<div align="center">
+  <img src="images/img2.jpg" width="800" />
+</div>
 
-![Alt text for the image](images/img3.jpg)
+<div align="center">
+  <img src="images/img3.jpg" width="400" />
+</div>
