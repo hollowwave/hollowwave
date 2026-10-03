@@ -5,7 +5,9 @@
 IT student interested in software, security, and systems.
 
 ## This is my 'Personal' Web
-[CLICK HERE!!!](https://hollowwave.github.io/)
+[CLICK HERE!!!](https://personal-web.hollowwave.workers.dev/)
+[CLICK HERE!!!](https://personal-web.hollowwave.workers.dev/)
+[CLICK HERE!!!](https://personal-web.hollowwave.workers.dev/)
 
 <br>
 
